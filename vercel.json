@@ -1,0 +1,10 @@
+{
+  "buildCommand": "echo 'Static HTML project'",
+  "outputDirectory": ".",
+  "public": true,
+  "github": {
+    "enabled": true,
+    "silent": false
+  },
+  "env": []
+}
